@@ -1,5 +1,5 @@
 # ChallengeDS
-Repositorio para arquivos desenvolvimos durante o primeiro challenge de [Ciência de Dados da Alura](https://www.alura.com.br/challenges/data-science/)
+Repositorio dos arquivos desenvolvidos durante o primeiro challenge de [Ciência de Dados da Alura](https://www.alura.com.br/challenges/data-science/)
 
 - [Tratamento e modelos de classificação em Python](https://github.com/douglascdsantos/ChallengeDS/blob/main/challengeDS.ipynb);
 - [Analise de cada categoria via Pandas Profiling](https://github.com/douglascdsantos/ChallengeDS/blob/main/analise%20das%20vari%C3%A1veis%20pandas%20profiling.html) para esse recomendo salvar e abrir na sua máquina;

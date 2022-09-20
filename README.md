@@ -1,3 +1,19 @@
+# Business Intelligence em Bibliotecas
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+Repositorio dos arquivos desenvolvidos durante o primeiro challenge de [Ciência de Dados da Alura](https://www.alura.com.br/challenges/data-science/)
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Analise de Churn**
+| :label: Tecnologias | python machine learning power bi
+| :rocket: URL         | 
+| :fire: Desafio     | challenge de [Ciência de Dados da Alura](https://www.alura.com.br/challenges/data-science/)
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://i.imgur.com/jn7km8o.png)
+
+
 # ChallengeDS
 Repositorio dos arquivos desenvolvidos durante o primeiro challenge de [Ciência de Dados da Alura](https://www.alura.com.br/challenges/data-science/)
 

@@ -1,4 +1,4 @@
-# Analise Churn de clientes
+# Bussines Intelligence, Machine Learning e Deploy de uma Análise Churn
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Repositorio dos arquivos desenvolvidos durante o primeiro challenge de [Ciência de Dados da Alura](https://www.alura.com.br/challenges/data-science/)
@@ -6,12 +6,12 @@ Repositorio dos arquivos desenvolvidos durante o primeiro challenge de [Ciência
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Analise de Churn**
-| :label: Tecnologias | python machine learning power bi
-| :rocket: URL         | 
+| :label: Tecnologias | python, machine learning, power bi, MLops
+| :rocket: URL         | [BI](https://app.powerbi.com/view?r=eyJrIjoiNGFjMWE5YjctODQ2NS00YmIxLWJlN2UtOWYzYjgwYmEyMmI1IiwidCI6IjQ5OWJkNjVjLTg5NTktNDYzNC04NWMyLTFhYWEwZmI4Y2Q1NSJ9&pageName=ReportSectionb7deadb478676b9b7004), [Modelo ML](https://github.com/douglascdsantos/ChallengeDS/blob/main/challengeDS.ipynb), [API]()
 | :fire: Desafio     | challenge de [Ciência de Dados da Alura](https://www.alura.com.br/challenges/data-science/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://i.imgur.com/jn7km8o.png)
+![](https://uploaddeimagens.com.br/images/004/028/588/original/download_%281%29.png#vitrinedev)
 
 Na reunião inicial com as pessoas responsáveis pela área de vendas da empresa, foi explicada a importância de se reduzir a *Taxa de Evasão de Clientes*, conhecido como *Churn Rate*. Basicamente, o Churn Rate indica o quanto a empresa perdeu de receita ou clientes em um período de tempo.
 
